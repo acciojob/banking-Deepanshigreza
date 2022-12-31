@@ -4,9 +4,6 @@ public class SavingsAccount extends BankAccount{
     double rate;
     double maxWithdrawalLimit;
 
-    public double getRate() {
-        return rate;
-    }
 
     public void setRate(double rate) {
         this.rate = rate;
